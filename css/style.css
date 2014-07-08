@@ -1,6 +1,6 @@
 
 body {
-	background: url(../images/bg-body.gif) repeat ;
+	background: url(../images/invoker.gif) repeat ;
 	font: 14px Arial, Helvetica, Sans-Serif;
 	color: #555555;
 	margin: 0;
@@ -141,7 +141,7 @@ form {
 	padding:5px;
 }
 a.logo {
-	background:url(../images/logo.jpg) no-repeat ;
+	background:url(../images/slark.jpg) no-repeat ;
 	display:block;
 	margin:0 0 0 430px;
 	height:100px;

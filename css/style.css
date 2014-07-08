@@ -141,7 +141,7 @@ form {
 	padding:5px;
 }
 a.logo {
-	background:url(../images/slark2.jpg) no-repeat ;
+	background:url(../images/slark3.jpg) no-repeat ;
 	display:block;
 	margin:0 0 0 430px;
 	height:231px;
@@ -173,7 +173,7 @@ a.logo {
 #container {
 	background:url("../images/border-bg.gif") repeat ;
 	width: 1048px;
-	margin: 40px auto;
+	margin:80px 40px 40px auto;
 	border:1px solid #FFFFFF;
 	outline:1px solid #D8D8D8;
 	padding:15px;

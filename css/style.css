@@ -142,9 +142,10 @@ form {
 }
 a.logo {
 	background:url(../images/slark3.jpg) no-repeat ;
+	left:400px;
 	display:block;
-	height:231px;
-	width:410px;
+	height:200px;
+	width:600px;
 	position:absolute;	
 }
 * html a.logo
